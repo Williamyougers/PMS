@@ -1,7 +1,0 @@
-#
-#spring:
-#  mvc:
-#    static-path-pattern: /res/**
-#
-#  profiles:
-#    active: dev
