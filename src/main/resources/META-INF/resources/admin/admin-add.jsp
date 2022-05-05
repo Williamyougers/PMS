@@ -155,7 +155,7 @@
                     <div class="form-group">
 						<div class="input-group col-md-3">
 							<label class="control-label" for="name">姓名*</label>
-							<input type="text" class="form-control" name="name" / required>
+							<input type="text" class="form-control" name="name" required />
 							<span class="help-block with-errors"></span>
 						</div>
                     </div>
@@ -167,7 +167,7 @@
 						</div> 
 						<div class="input-group col-md-3">
 							<label for="Password2">确认密码*</label>
-							<input type="password" class="form-control" id="Password2"  data-match="#Password1" data-error="密码不一致" required>
+							<input type="password" class="form-control" id="Password2"  data-match="#Password1" data-error="密码不一致" required/>
 							<span class="help-block with-errors"></span>
 						</div> 
 					</div>
